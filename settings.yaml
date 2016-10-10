@@ -1,3 +1,4 @@
 switch: on
-request: denied
+request: accepted
+monkey_count: 12
 okay: fine
