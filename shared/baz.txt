@@ -1,0 +1,11 @@
+this
+is
+a file
+that
+will
+have
+conflicts
+and
+possibly
+something
+else
